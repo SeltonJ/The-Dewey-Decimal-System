@@ -1,0 +1,203 @@
+﻿[
+  {
+    "class": "C",
+    "title": "Auxiliary Sciences of History",
+    "subclasses": [
+      {
+        "code": "CB",
+        "title": "History of Civilization",
+        "entries": [
+          { "callNumber": "CB 3", "description": "History of Civilization (General)" },
+          { "callNumber": "CB 75", "description": "Civilization (Philosophy)" },
+          { "callNumber": "CB 151", "description": "Influences on Civilization" },
+          { "callNumber": "CB 158", "description": "Forecasts of future progress" },
+          { "callNumber": "CB 161", "description": "Civilization and technology" },
+          { "callNumber": "CB 195", "description": "Civilization and race" },
+          { "callNumber": "CB 199", "description": "By period (General)" },
+          { "callNumber": "CB 203", "description": "Ancient civilization" },
+          { "callNumber": "CB 211", "description": "Medieval civilization" },
+          { "callNumber": "CB 245", "description": "Modern civilization" }
+        ]
+      },
+      {
+        "code": "CC",
+        "title": "Archaeology",
+        "entries": [
+          { "callNumber": "CC 72", "description": "Prehistoric archaeology" },
+          { "callNumber": "CC 75", "description": "Historical archaeology" },
+          { "callNumber": "CC 77", "description": "Landscape archaeology" },
+          { "callNumber": "CC 79", "description": "Archaeological theory" },
+          { "callNumber": "CC 81", "description": "Archaeological methodology" },
+          { "callNumber": "CC 83", "description": "Excavation techniques" },
+          { "callNumber": "CC 85", "description": "Archaeological interpretation" },
+          { "callNumber": "CC 90", "description": "Public archaeology" },
+          { "callNumber": "CC 110", "description": "Underwater archaeology" },
+          { "callNumber": "CC 120", "description": "Archaeological conservation and preservation" }
+        ]
+      },
+      {
+        "code": "CD",
+        "title": "Diplomatic, Archives, Seals",
+        "entries": [
+          { "callNumber": "CD 1", "description": "Diplomatic (General)" },
+          { "callNumber": "CD 9", "description": "Diplomatic of specific areas and periods" },
+          { "callNumber": "CD 25", "description": "Diplomatic transcription" },
+          { "callNumber": "CD 32", "description": "Charters and cartularies" },
+          { "callNumber": "CD 55", "description": "Seals (General)" },
+          { "callNumber": "CD 65", "description": "Seals of specific areas and periods" },
+          { "callNumber": "CD 80", "description": "Archives (General)" },
+          { "callNumber": "CD 92", "description": "Classification in archives" },
+          { "callNumber": "CD 98", "description": "Archive administration" },
+          { "callNumber": "CD 101", "description": "Archival materials" }
+        ]
+      },
+      {
+        "code": "CE",
+        "title": "Technical Chronology, Calendar",
+        "entries": [
+          { "callNumber": "CE 11", "description": "Time measurement" },
+          { "callNumber": "CE 21", "description": "Time systems and standards" },
+          { "callNumber": "CE 31", "description": "Time in historical perspectives" },
+          { "callNumber": "CE 41", "description": "Calendars (General)" },
+          { "callNumber": "CE 51", "description": "Specific types of calendars" },
+          { "callNumber": "CE 61", "description": "Chronological tables" },
+          { "callNumber": "CE 71", "description": "Dating systems" },
+          { "callNumber": "CE 81", "description": "Calendar reform" },
+          { "callNumber": "CE 91", "description": "Time in philosophy and science" },
+          { "callNumber": "CE 111", "description": "Horology (Study of timepieces)" }
+        ]
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "title": "World History (Except American History)",
+    "subclasses": [
+      {
+        "code": "D",
+        "title": "(General)",
+        "entries": [
+          { "callNumber": "D 13", "description": "History (Philosophy. Theory)" },
+          { "callNumber": "D 15", "description": "Historiography" },
+          { "callNumber": "D 17", "description": "Study and teaching" },
+          { "callNumber": "D 19", "description": "Historical geography" },
+          { "callNumber": "D 20", "description": "Biography and History" },
+          { "callNumber": "D 25", "description": "Collected works of general historians" },
+          { "callNumber": "D 31", "description": "World history" },
+          { "callNumber": "D 35", "description": "History of civilizations" }
+        ]
+      },
+      {
+        "code": "DA",
+        "title": "Great Britain",
+        "entries": [
+          { "callNumber": "DA 10", "description": "General history of Great Britain" },
+          { "callNumber": "DA 20", "description": "England" },
+          { "callNumber": "DA 25", "description": "Wales" },
+          { "callNumber": "DA 30", "description": "Scotland" },
+          { "callNumber": "DA 35", "description": "Ireland" }
+        ]
+      },
+      {
+        "code": "DE",
+        "title": "Greco-Roman World",
+        "entries": [
+          { "callNumber": "DE 5", "description": "Mediterranean Region. The Greco-Roman World" },
+          { "callNumber": "DE 10", "description": "Geography, Travel" },
+          { "callNumber": "DE 25", "description": "Local history and description" },
+          { "callNumber": "DE 30", "description": "Antiquities. Civilization. Culture. Ethnography" }
+        ]
+      },
+      {
+      "code": "DF",
+      "title": "Greece",
+      "entries": [
+        { "callNumber": "DF 10", "description": "General history of Greece" },
+        { "callNumber": "DF 20", "description": "Aegean islands (General)" },
+        { "callNumber": "DF 25", "description": "Crete" },
+        { "callNumber": "DF 30", "description": "Thessaly" },
+        { "callNumber": "DF 35", "description": "Epirus" }
+      ]
+    },
+    {
+      "code": "DG",
+      "title": "Italy - Malta",
+      "entries": [
+        { "callNumber": "DG 10", "description": "Italy (General)" },
+        { "callNumber": "DG 20", "description": "Northern Italy" },
+        { "callNumber": "DG 25", "description": "Central Italy" },
+        { "callNumber": "DG 30", "description": "Southern Italy, Sicily, Malta" },
+        { "callNumber": "DG 35", "description": "Rome (The city)" }
+      ]
+    },
+    {
+      "code": "DH",
+      "title": "Low Countries - Benelux Countries",
+      "entries": [
+        { "callNumber": "DH 10", "description": "General history of Low Countries. Benelux Countries" },
+        { "callNumber": "DH 20", "description": "Belgium" },
+        { "callNumber": "DH 25", "description": "Luxembourg" },
+        { "callNumber": "DH 30", "description": "Netherlands" }
+      ]
+    },
+    {
+      "code": "DJ",
+      "title": "Netherlands (Holland)",
+      "entries": [
+        { "callNumber": "DJ 10", "description": "General history of Netherlands" },
+        { "callNumber": "DJ 20", "description": "Northern Netherlands" },
+        { "callNumber": "DJ 25", "description": "Eastern Netherlands" },
+        { "callNumber": "DJ 30", "description": "Western Netherlands" },
+        { "callNumber": "DJ 35", "description": "Southern Netherlands" }
+      ]
+    },
+    {
+      "code": "DJK",
+      "title": "Eastern Europe (General)",
+      "entries": [
+        { "callNumber": "DJK 10", "description": "History of Eastern Europe (General)" },
+        { "callNumber": "DJK 20", "description": "Northern Eastern Europe" },
+        { "callNumber": "DJK 25", "description": "Central Eastern Europe" },
+        { "callNumber": "DJK 30", "description": "Southeastern Europe" },
+        { "callNumber": "DJK 35", "description": "Eastern Europe (General civilization)" }
+      ]
+    },
+    {
+      "code": "DK",
+      "title": "Russia. Soviet Union. Former Soviet Republics - Poland",
+      "entries": [
+        { "callNumber": "DK 10", "description": "Russia (General)" },
+        { "callNumber": "DK 25", "description": "Northwest Russia" },
+        { "callNumber": "DK 30", "description": "Central Russia" },
+        { "callNumber": "DK 35", "description": "Southern Russia" },
+        { "callNumber": "DK 40", "description": "Siberia" },
+        { "callNumber": "DK 45", "description": "Far East (Russian Asia)" }
+      ]
+    },
+    {
+      "code": "DL",
+      "title": "Northern Europe. Scandinavia",
+      "entries": [
+        { "callNumber": "DL 10", "description": "General history of Northern Europe. Scandinavia" },
+        { "callNumber": "DL 20", "description": "Denmark" },
+        { "callNumber": "DL 25", "description": "Iceland" },
+        { "callNumber": "DL 30", "description": "Norway" },
+        { "callNumber": "DL 35", "description": "Sweden" },
+        { "callNumber": "DL 40", "description": "Finland" }
+      ]
+    },
+    {
+      "code": "DP",
+      "title": "Spain - Portugal",
+      "entries": [
+        { "callNumber": "DP 10", "description": "Spain" },
+        { "callNumber": "DP 20", "description": "Northern Spain" },
+        { "callNumber": "DP 25", "description": "Central Spain" },
+        { "callNumber": "DP 30", "description": "Southern Spain" },
+        { "callNumber": "DP 35", "description": "Portugal" },
+        { "callNumber": "DP 40", "description": "Andorra" },
+        { "callNumber": "DP 45", "description": "Gibraltar" },
+        { "callNumber": "DP 50", "description": "Autonomous Communities of Spain" },
+      ]
+  }
+]
